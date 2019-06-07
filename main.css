@@ -1,0 +1,13 @@
+main {
+    display: flex;
+    flex-direction: row;
+    flex-basis: 50%;
+}
+
+#entry1 {
+    border: 3px solid orange;
+}
+
+#entry2 {
+    border: 3px solid greenyellow;
+}
