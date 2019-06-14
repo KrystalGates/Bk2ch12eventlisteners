@@ -1,13 +1,40 @@
+for practice mirror mirror
 main {
-    display: flex;
-    flex-direction: row;
-    flex-basis: 50%;
+  display: flex;
+  flex-direction: row;
 }
 
 #entry1 {
-    border: 3px solid orange;
+  border: 3px solid orange;
+  width: 50%;
+  height: 50px;
 }
 
 #entry2 {
-    border: 3px solid greenyellow;
+  border: 3px solid greenyellow;
+  width: 50%;
+} */
+
+/* Practice scrolling and scaling
+#container {
+  display: flex;
+  min-height: 1500px;
+}
+
+#audrey {
+  background-color: purple;
+  color: snow;
+  min-height: 100px;
+  width: 50px;
+  position: fixed;
+} */
+
+/* Practice: Wonder Powers Activate! */
+/* .disabled {
+    background-color: gray;
+}
+
+.enabled {
+    background-color: fuchsia;
+    color: goldenrod;
 }
